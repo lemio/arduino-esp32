@@ -10,3 +10,7 @@ Starting with 1.6.4, Arduino allows installation of third-party platform package
 - Start Arduino and open Preferences window.
 - Enter one of the release links above into *Additional Board Manager URLs* field. You can add multiple URLs, separating them with commas.
 - Open Boards Manager from Tools > Board menu and install *esp32* platform (and don't forget to select your ESP32 board from Tools > Board menu after installation).
+
+### Installation instructions using Arduino PRO IDE
+
+- Instructions can be found in [the Arduino Pro IDE Github issues](https://github.com/arduino/arduino-pro-ide/issues/245).
